@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi there 👋 Kinndly check my resume at https://github.com/suman-komarla-adinarayana-aitpa9662r/suman-komarla-adinarayana-aitpa9662r/blob/main/MyResume/
 <!--
 **suman-komarla-adinarayana/suman-komarla-adinarayana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
