@@ -4,6 +4,16 @@ GitHub
 3) OpenSourceEnterprises @ Github - https://resources.github.com/open-source/quick-guide-to-open-source-enterprises/
 
 
+source-code-hosting_facilities
+https://en.wikipedia.org/wiki/Comparison_of_source-code-hosting_facilities
+https://en.wikipedia.org/wiki/Comparison_of_version-control_software
+https://en.wikipedia.org/wiki/Knowledge_management
+https://en.wikipedia.org/wiki/Comparison_of_database_administration_tools
+https://en.wikipedia.org/wiki/List_of_version-control_software
+https://en.wikipedia.org/wiki/List_of_software_development_philosophies
+https://en.wikipedia.org/wiki/Gerrit_(software)
+https://en.wikipedia.org/wiki/Git
+
 Documentation-
 
 Standards
