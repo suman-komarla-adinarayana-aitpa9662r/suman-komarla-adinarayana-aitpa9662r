@@ -1,4 +1,9 @@
 ## Hi there 👋 Kindly check my resume at https://github.com/suman-komarla-adinarayana-aitpa9662r/suman-komarla-adinarayana-aitpa9662r/tree/2aac44ddb0cb76307d7552b32168e0bf9d4a7217/MyIndiaInternationalWorkResumeInfo
+
+- 🔭 I’m currently working on ... TRANSPORT (AUTOMOTIVE) EMBEDDED IT Projects for India International Business Development, would be interested to collaborate/lead/contribute/learn/support futuristic projects  
+
+
+
 <!--
 **suman-komarla-adinarayana/suman-komarla-adinarayana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
