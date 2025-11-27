@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ... TRANSPORT (AUTOMOTIVE) EMBEDDED IT Projects for India International Business Development, would be interested to collaborate/lead/contribute/learn/support futuristic projects  
 
-
+https://github.com/suman-komarla-adinarayana-aitpa9662r/SumanKA_AutomotiveEmbeddedIT_IndiaInternationalWorkInfo
 
 <!--
 **suman-komarla-adinarayana/suman-komarla-adinarayana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...  
 
-https://github.com/suman-komarla-adinarayana-aitpa9662r/SumanKA_AutomotiveEmbeddedIT_IndiaInternationalWorkInfo
+
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
