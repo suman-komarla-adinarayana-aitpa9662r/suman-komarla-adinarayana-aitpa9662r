@@ -1,6 +1,7 @@
 Slideshare
 vectorstock
 github
+gitlab
 linkedin
 whatsapp
 micorosoft teams
